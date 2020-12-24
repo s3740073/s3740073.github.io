@@ -1,10 +1,15 @@
 title {
-  position:relative,
-  left:50%
+  font-size: 16px;
+  text-decoration: underline;
+  text-align: center;
 }
 heading1 {
+  font-size: 14px;
+  text-decoration: underline;
 }
 heading2 {
+  font-size: 14px;
 }
 body1 {
+  font-size: 12px;
 }
